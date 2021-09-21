@@ -3,8 +3,8 @@
 <img src="header.png"/>
 
 ## About
-* 📚 First year student studying **Computer Science** at Simon Fraser University.
-* 👨‍💻 Passionate about `programming` and learning about new **software technologies**.
+* 📚 Second year student studying **Computer Science** at Simon Fraser University.
+* 👨‍💻 Passionate about programming, artificial inteligence and cybersecurity.
 
 ## Languages
 <ul style="float: left;"> 

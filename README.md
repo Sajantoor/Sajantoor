@@ -1,19 +1,7 @@
-# Hi, I'm Sajan 👋
-
 <img src="header.png"/>
 
 ## About
-* 📚 **Computer Science** student at Simon Fraser University.
-
-## Languages
-<ul style="float: left;"> 
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30" style="margin:15px;">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="30" style="margin:15px;">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30" style="margin:15px;">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30" style="margin:15px;">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30" style="margin:15px;">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="30" style="margin:15px;">
-</ul>
+* 📚 3rd year **Computer Science** student at Simon Fraser University.
 
 ## LinkedIn
 <div style="float: left;">

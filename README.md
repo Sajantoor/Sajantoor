@@ -1,14 +1,11 @@
 <img src="header.png"/>
 
 ## About
-* 📚 3rd year **Computer Science** student at Simon Fraser University.
 
-## LinkedIn
-<div style="float: left;">
-    <a href="https://www.linkedin.com/in/sajantoor/"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="50" style="margin:15px;"/>
-    </a>
-    <p style="margin:15px"> 
-        linkedin.com/in/sajantoor
-    </p>
-</div>
+Hi, I'm a 4th year **Computer Science** student at Simon Fraser University. I'm passionate about software engineering, backend development and cybersecurity. I'm always looking for new opportunities to learn and grow as a developer.
+
+## Contacts
+
+LinkedIn: [linkedin.com/in/sajantoor](https://www.linkedin.com/in/sajantoor/)
+
+Website: [https://sajantoor.github.io/](https://sajantoor.github.io)

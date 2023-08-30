@@ -10,4 +10,4 @@ LinkedIn: [linkedin.com/in/sajantoor](https://www.linkedin.com/in/sajantoor/)
 
 Website: [sajantoor.github.io/](https://sajantoor.github.io)
 
-Resume: [sajantoor.github.io/resume](https://sajantoor.github.io/resume)
+Resume: <a href="https://raw.githubusercontent.com/Sajantoor/sajantoor.github.io/master/src/assets/Resume%20-%20Sajan%20Toor.pdf" download> Download here </a>

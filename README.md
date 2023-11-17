@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm a 4th year **Computer Science** student at Simon Fraser University. I'm passionate about software engineering, backend development and cybersecurity. I'm always looking for new opportunities to learn and grow as a developer.
+Hi, I'm a 4th year **Computer Science** student at Simon Fraser University. I'm passionate about software engineering, backend development, and distributed systems. I'm always looking for new opportunities to learn and grow as a developer.
 
 ## Links
 
